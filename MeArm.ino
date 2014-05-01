@@ -18,10 +18,10 @@ int val3;    // variable to read the value from the analog pin
 void setup() 
 { 
   Serial.begin(9600);
-  myservo0.attach(11);  // attaches the servo on pin 9 to the servo object
+  myservo0.attach(11);  // attaches the servo on pin 11 to the servo object
   myservo1.attach(10);  // attaches the servo on pin 10 to the servo object
-  myservo2.attach(9);  // attaches the servo on pin 11 to the servo object
-  myservo3.attach(6);  // attaches the servo on pin 11 to the servo object
+  myservo2.attach(9);  // attaches the servo on pin 9 to the servo object
+  myservo3.attach(6);  // attaches the servo on pin 6 to the servo object
 } 
  
 void loop() 
