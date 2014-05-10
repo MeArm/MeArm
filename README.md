@@ -10,7 +10,7 @@ This library solves the angles required to send to the servos in order to meet a
 Usage
 -----
 
-'''
+```
 #include "meArm.h"
 #include <Servo.h>
 
@@ -31,7 +31,7 @@ void loop() {
   //Back to start position
   arm.gotoPoint(0,100,50);
 }
-'''
+```
 
 Two usage examples are included:
 * IKTest follows a pre-programmed path defined in Cartesian coordinates
