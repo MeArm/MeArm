@@ -7,6 +7,8 @@ The meArm has four mini servos - one for the gripper, and one each to rotate the
 
 This library solves the angles required to send to the servos in order to meet a given position, allowing for much simpler coding.
 
+Coordinates are measured in mm from the base rotation centre.  Initial 'home' position is at (0, 100, 50), i.e. 100mm forward of the base and 50mm off the ground.
+
 Usage
 -----
 
@@ -37,4 +39,17 @@ Two usage examples are included:
 * IKTest follows a pre-programmed path defined in Cartesian coordinates
 * JoystickIK uses two analogue thumb sticks to guide the gripper in Cartesian space
 
+Installation
+------------
 Clone this repository to your local machine, and place it in your Arduino libraries folder as 'meArm'.
+
+Class methods of meArm object
+-----------------------------
+* void begin(int pinBase, int pinShoulder, int pinElbow, int pinGripper) - The four PWM-capable pins used to drive the servos.  Begin must be called in setup() before any other calls to the meArm instance are made.
+* void openGripper() - opens the gripper, letting go of anything it was holding
+* void closeGripper() - closes the gripper, perhaps grabbing and holding something as it does so
+* void gotoPoint(float x, float y, float z) - move in a straight line from the current point to the requested position
+* void goDirectlyTo(float x, float y, float z) - set the servo angles to immediately go to the requested point without caring what path the arm swings through to get there - faster but less predictable than gotoPoint
+* float getX() - current x coordinate
+* float getY() - current y coordinate
+* float getZ() - current z coordinate
