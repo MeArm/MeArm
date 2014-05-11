@@ -1,8 +1,8 @@
 /* meArm library York Hack Space May 2014
  * A simple control library for Phenoptix' meArm
  * Usage:
- *   meArm arm(11, 10, 9, 6);
- *   arm.begin();
+ *   meArm arm;
+ *   arm.begin(1, 10, 9, 6);
  *   arm.openGripper();
  *   arm.gotoPoint(-80, 100, 140);
  *   arm.closeGripper();
