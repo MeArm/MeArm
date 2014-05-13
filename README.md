@@ -35,10 +35,11 @@ void loop() {
 }
 ```
 
-Two usage examples are included:
+Three usage examples are included:
 * IKTest follows a pre-programmed path defined in Cartesian coordinates
 * JoystickIK uses two analogue thumb sticks to guide the gripper in Cartesian space
-
+* meArm_Wii_Classic uses a Wii Classic gamepad connected over I2C to guide the gripper
+* 
 Installation
 ------------
 Clone this repository to your local machine, and place it in your Arduino libraries folder as 'meArm'.
