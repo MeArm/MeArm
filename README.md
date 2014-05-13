@@ -51,6 +51,7 @@ Class methods of meArm object
 * void closeGripper() - closes the gripper, perhaps grabbing and holding something as it does so
 * void gotoPoint(float x, float y, float z) - move in a straight line from the current point to the requested position
 * void goDirectlyTo(float x, float y, float z) - set the servo angles to immediately go to the requested point without caring what path the arm swings through to get there - faster but less predictable than gotoPoint
+* bool isReachable() - returns true if the point can theoretically be reached by the arm
 * float getX() - current x coordinate
 * float getY() - current y coordinate
 * float getZ() - current z coordinate
