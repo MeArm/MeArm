@@ -17,6 +17,7 @@ openGripper	KEYWORD2
 closeGripper	KEYWORD2
 gotoPoint	KEYWORD2
 goDirectlyTo	KEYWORD2
+isReachable	KEYWORD2
 getX	KEYWORD2
 getY	KEYWORD2
 getZ	KEYWORD2
