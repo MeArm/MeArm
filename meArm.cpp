@@ -92,6 +92,12 @@ void meArm::gotoPoint(float x, float y, float z) {
   delay(50);
 }
 
+//Check to see if possible
+bool meArm::isReachable(float x, float y, float z) {
+  float radBase,radShoulder,radElbow;
+  return (solve(x, y, z, radBase, radShoulder, radElbow));
+}
+
 //Grab something
 void meArm::openGripper() {
   _gripper.write(90);
