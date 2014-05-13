@@ -40,6 +40,8 @@ class meArm {
     void openGripper();
     //Let go of something
     void closeGripper();
+    //Check to see if possible
+    bool isReachable(float x, float y, float z);
     //Current x, y and z
     float getX();
     float getY();
