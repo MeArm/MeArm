@@ -9,6 +9,8 @@ This library solves the angles required to send to the servos in order to meet a
 
 Coordinates are measured in mm from the base rotation centre.  Initial 'home' position is at (0, 100, 50), i.e. 100mm forward of the base and 50mm off the ground.
 
+[![meArm moving with Inverse Kinematics](http://img.youtube.com/vi/HbxhVs3UmuE/0.jpg)](http://www.youtube.com/watch?v=HbxhVs3UmuE)
+
 Usage
 -----
 
