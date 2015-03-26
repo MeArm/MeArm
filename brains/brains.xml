@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\KiCad\bin\brains\brains.sch</source>
+    <date>24/03/2015 12:27:22</date>
+    <tool>Eeschema (2015-01-16 BZR 5376)-product</tool>
+  </design>
+  <components>
+    <comp ref="U2">
+      <value>Nokia_5510_LCD</value>
+      <footprint>Brains:Nokia5510LCD</footprint>
+      <libsource lib="brains" part="Nokia_5510_LCD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550BFF9E</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>Servo</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="brains" part="Servo"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C0141</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>Servo</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="brains" part="Servo"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C0186</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>Servo</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="brains" part="Servo"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C01D9</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>Servo</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="brains" part="Servo"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C0236</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>HM-11_Bluetooth</value>
+      <footprint>Brains:HM-11_BT</footprint>
+      <libsource lib="brains" part="HM-11_Bluetooth"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C063F</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>JoyConnectISP</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05</footprint>
+      <libsource lib="brains" part="JoyConnectISP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C095A</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>JACK_2MM1</value>
+      <footprint>Connect:JACK_ALIM</footprint>
+      <libsource lib="brains" part="JACK_2MM1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C0A0B</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>WiiChuckCon</value>
+      <footprint>Brains:WiiChuck</footprint>
+      <libsource lib="brains" part="WiiChuckCon"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C0BAD</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>promicro</value>
+      <footprint>Sockets_DIP:DIP-24__600_ELL</footprint>
+      <libsource lib="brains" part="promicro"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C12FC</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>AP1117_V_REG</value>
+      <footprint>SMD_Packages:SOT-223</footprint>
+      <libsource lib="brains" part="AP1117_V_REG"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C408A</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <footprint>SMD_Packages:SMD-1206_Pol</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C4273</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>SMD_Packages:SMD-1206_Pol</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C43DC</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>TXB0108PWR</value>
+      <footprint>SMD_Packages:SSOP-20</footprint>
+      <libsource lib="brains" part="TXB0108PWR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C64D6</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>SMD_Packages:SMD-1206_Pol</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C6741</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>SMD_Packages:SMD-1206_Pol</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C684C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>SMD_Packages:SMD-1206_Pol</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C6BBB</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>SMD_Packages:SMD-4032</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C7FAE</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>SMD_Packages:SMD-1206_Pol</footprint>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550C9393</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>XBEE</value>
+      <libsource lib="brains" part="XBEE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55115AD3</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="DIODE">
+      <description>Diode simple</description>
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Condensateur non polarise</description>
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistance</description>
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="AP1117_V_REG">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP1117_V_REG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND/ADJ" type="input"/>
+        <pin num="2" name="VOUT" type="input"/>
+        <pin num="3" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="HM-11_Bluetooth">
+      <description>Bluetooth Module HM-11</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HM-11_Bluetooth</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UART_RTS" type="input"/>
+        <pin num="2" name="UART_TX" type="input"/>
+        <pin num="3" name="UART_CTS" type="input"/>
+        <pin num="4" name="UART_RX" type="input"/>
+        <pin num="5" name="NC" type="NotConnected"/>
+        <pin num="6" name="NC" type="NotConnected"/>
+        <pin num="7" name="NV" type="input"/>
+        <pin num="8" name="NV" type="input"/>
+        <pin num="9" name="3V3" type="input"/>
+        <pin num="10" name="NC" type="NotConnected"/>
+        <pin num="11" name="RESETB" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="PIO3" type="input"/>
+        <pin num="14" name="PIO2" type="NotConnected"/>
+        <pin num="15" name="PIO1" type="input"/>
+        <pin num="16" name="PIO0" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="JACK_2MM1">
+      <description>2.1mm Power Jack</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">JACK_2MM1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PWR" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="JoyConnectISP">
+      <description>Joystick/ISP Connector for MeBrain</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">JoyConnectISP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MOSI" type="input"/>
+        <pin num="2" name="VCC" type="input"/>
+        <pin num="3" name="A0" type="input"/>
+        <pin num="4" name="GND/A3" type="input"/>
+        <pin num="5" name="RST" type="input"/>
+        <pin num="6" name="GND/A2" type="input"/>
+        <pin num="7" name="SCK" type="input"/>
+        <pin num="8" name="GND/A1" type="input"/>
+        <pin num="9" name="MISO" type="input"/>
+        <pin num="10" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="Nokia_5510_LCD">
+      <description>Nokia 5510 LCD Breakout Module</description>
+      <footprints>
+        <fp>nokia5510lcd</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Nokia_5510_LCD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RST" type="input"/>
+        <pin num="2" name="CE" type="input"/>
+        <pin num="3" name="DC" type="input"/>
+        <pin num="4" name="Din" type="input"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="Vcc" type="input"/>
+        <pin num="7" name="BL" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="Servo">
+      <description>Servo Motor</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Servo</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="PWR" type="input"/>
+        <pin num="3" name="PWM" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="TXB0108PWR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXB0108PWR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="input"/>
+        <pin num="2" name="VCCA" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A3" type="input"/>
+        <pin num="5" name="A4" type="input"/>
+        <pin num="6" name="A5" type="input"/>
+        <pin num="7" name="A6" type="input"/>
+        <pin num="8" name="A7" type="input"/>
+        <pin num="9" name="A8" type="input"/>
+        <pin num="10" name="OE" type="input"/>
+        <pin num="11" name="GND" type="input"/>
+        <pin num="12" name="B8" type="input"/>
+        <pin num="13" name="B7" type="input"/>
+        <pin num="14" name="B6" type="input"/>
+        <pin num="15" name="B5" type="input"/>
+        <pin num="16" name="B4" type="input"/>
+        <pin num="17" name="B3" type="input"/>
+        <pin num="18" name="B2" type="input"/>
+        <pin num="19" name="VCCB" type="input"/>
+        <pin num="20" name="B1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="WiiChuckCon">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WiiChuckCon</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="3V3" type="input"/>
+        <pin num="3" name="DATA" type="input"/>
+        <pin num="4" name="CLK" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="promicro">
+      <description>Pro Micro Pin Out</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">promicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX_D1" type="input"/>
+        <pin num="2" name="RX_D0" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="D2_SDA" type="input"/>
+        <pin num="6" name="D3_SCL_PWM" type="input"/>
+        <pin num="7" name="D4_A6" type="input"/>
+        <pin num="8" name="D5_PWM" type="input"/>
+        <pin num="9" name="D6_A7_PWM" type="input"/>
+        <pin num="10" name="D7" type="input"/>
+        <pin num="11" name="D8_A8" type="input"/>
+        <pin num="12" name="D9_A9_PWM" type="input"/>
+        <pin num="13" name="D10_A10_PWM" type="input"/>
+        <pin num="14" name="D16_MOSI" type="input"/>
+        <pin num="15" name="D14_MISO" type="input"/>
+        <pin num="16" name="D15_SCLK" type="input"/>
+        <pin num="17" name="D18_A0" type="input"/>
+        <pin num="18" name="D19_A1" type="input"/>
+        <pin num="19" name="D20_A2" type="input"/>
+        <pin num="20" name="D21_A3" type="input"/>
+        <pin num="21" name="VCC" type="power_out"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="input"/>
+        <pin num="24" name="RAW" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="brains" part="XBEE">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XBEE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC_3V3" type="input"/>
+        <pin num="2" name="TX/IO" type="input"/>
+        <pin num="3" name="RX_IO" type="input"/>
+        <pin num="4" name="IO0" type="input"/>
+        <pin num="5" name="RESET" type="input"/>
+        <pin num="6" name="IO1" type="input"/>
+        <pin num="7" name="IO2" type="input"/>
+        <pin num="8" name="IO3" type="input"/>
+        <pin num="9" name="DTR/IO" type="input"/>
+        <pin num="10" name="GND" type="input"/>
+        <pin num="12" name="AD4" type="input"/>
+        <pin num="13" name="ON/SLP" type="input"/>
+        <pin num="14" name="VREF" type="input"/>
+        <pin num="15" name="IO6" type="input"/>
+        <pin num="16" name="RTS/IO" type="input"/>
+        <pin num="17" name="IO7" type="input"/>
+        <pin num="18" name="IO8" type="input"/>
+        <pin num="19" name="SCL/IO" type="input"/>
+        <pin num="20" name="SDA/IO" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\KiCad\share\library\device.lib</uri>
+    </library>
+    <library logical="brains">
+      <uri>C:\Dropbox\PCB Projects\LeonardoKiCad\brains.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U6-Pad20)">
+      <node ref="U6" pin="20"/>
+    </net>
+    <net code="2" name="BT_RX">
+      <node ref="U3" pin="2"/>
+      <node ref="U6" pin="9"/>
+    </net>
+    <net code="3" name="BT_TX">
+      <node ref="U3" pin="1"/>
+      <node ref="U6" pin="8"/>
+    </net>
+    <net code="4" name="SCLK_D15">
+      <node ref="U6" pin="7"/>
+      <node ref="U3" pin="16"/>
+      <node ref="U4" pin="7"/>
+    </net>
+    <net code="5" name="MOSI_D16">
+      <node ref="U4" pin="1"/>
+      <node ref="U3" pin="14"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="6" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="U13" pin="10"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U8" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U7" pin="12"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U12" pin="1"/>
+      <node ref="U11" pin="1"/>
+      <node ref="U10" pin="1"/>
+      <node ref="U9" pin="1"/>
+      <node ref="U3" pin="23"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U4" pin="10"/>
+      <node ref="U5" pin="2"/>
+      <node ref="U5" pin="3"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U3" pin="3"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U6" pin="11"/>
+    </net>
+    <net code="8" name="+5V">
+      <node ref="U4" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U3" pin="21"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="9" name="+3V3">
+      <node ref="U13" pin="1"/>
+      <node ref="U7" pin="9"/>
+      <node ref="U6" pin="19"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U8" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="U2" pin="6"/>
+      <node ref="U2" pin="7"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="10" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10"/>
+    </net>
+    <net code="11" name="Net-(U7-Pad13)">
+      <node ref="U7" pin="13"/>
+    </net>
+    <net code="12" name="+6V">
+      <node ref="U10" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U12" pin="2"/>
+      <node ref="U8" pin="3"/>
+      <node ref="U3" pin="24"/>
+      <node ref="U5" pin="1"/>
+      <node ref="U9" pin="2"/>
+      <node ref="U11" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="13" name="Net-(U13-Pad15)">
+      <node ref="U13" pin="15"/>
+    </net>
+    <net code="14" name="Net-(U13-Pad16)">
+      <node ref="U13" pin="16"/>
+    </net>
+    <net code="15" name="Net-(U13-Pad17)">
+      <node ref="U13" pin="17"/>
+    </net>
+    <net code="16" name="Net-(U13-Pad18)">
+      <node ref="U13" pin="18"/>
+    </net>
+    <net code="17" name="Net-(U13-Pad19)">
+      <node ref="U13" pin="19"/>
+    </net>
+    <net code="18" name="Net-(U13-Pad20)">
+      <node ref="U13" pin="20"/>
+    </net>
+    <net code="19" name="Net-(U13-Pad13)">
+      <node ref="U13" pin="13"/>
+    </net>
+    <net code="20" name="Net-(U13-Pad14)">
+      <node ref="U13" pin="14"/>
+    </net>
+    <net code="22" name="Net-(U13-Pad12)">
+      <node ref="U13" pin="12"/>
+    </net>
+    <net code="23" name="Net-(U13-Pad9)">
+      <node ref="U13" pin="9"/>
+    </net>
+    <net code="24" name="Net-(U13-Pad8)">
+      <node ref="U13" pin="8"/>
+    </net>
+    <net code="25" name="Net-(U13-Pad7)">
+      <node ref="U13" pin="7"/>
+    </net>
+    <net code="26" name="Net-(U13-Pad6)">
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="27" name="Net-(U13-Pad4)">
+      <node ref="U13" pin="4"/>
+    </net>
+    <net code="28" name="Net-(U13-Pad5)">
+      <node ref="U13" pin="5"/>
+    </net>
+    <net code="29" name="Net-(R1-Pad1)">
+      <node ref="U6" pin="10"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="30" name="3V_BT_RX">
+      <node ref="U6" pin="12"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U13" pin="3"/>
+    </net>
+    <net code="31" name="3V_BT_TX">
+      <node ref="U6" pin="13"/>
+      <node ref="U13" pin="2"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="33" name="Net-(U7-Pad14)">
+      <node ref="U7" pin="14"/>
+    </net>
+    <net code="34" name="I2C_SDA">
+      <node ref="U1" pin="3"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="35" name="LEFT">
+      <node ref="U10" pin="3"/>
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="36" name="RIGHT">
+      <node ref="U11" pin="3"/>
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="37" name="LCD_DC">
+      <node ref="U3" pin="7"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="38" name="I2C_SCLK">
+      <node ref="U3" pin="6"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="39" name="LCD_RST">
+      <node ref="U6" pin="3"/>
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="40" name="MISO_D14">
+      <node ref="U4" pin="9"/>
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="41" name="A1">
+      <node ref="U4" pin="8"/>
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="42" name="A0">
+      <node ref="U3" pin="17"/>
+      <node ref="U4" pin="3"/>
+    </net>
+    <net code="43" name="A2">
+      <node ref="U4" pin="6"/>
+      <node ref="U3" pin="19"/>
+    </net>
+    <net code="44" name="CLAW">
+      <node ref="U3" pin="13"/>
+      <node ref="U12" pin="3"/>
+    </net>
+    <net code="45" name="WAIST">
+      <node ref="U3" pin="12"/>
+      <node ref="U9" pin="3"/>
+    </net>
+    <net code="46" name="LCD_CE">
+      <node ref="U3" pin="11"/>
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="47" name="Net-(U7-Pad1)">
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="48" name="3V_SCLK_D15">
+      <node ref="U6" pin="14"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="49" name="3V_MOSI_D16">
+      <node ref="U6" pin="15"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="50" name="3V_LCD_DC">
+      <node ref="U6" pin="16"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="51" name="3V_LCD_CE">
+      <node ref="U2" pin="2"/>
+      <node ref="U6" pin="17"/>
+    </net>
+    <net code="52" name="RST">
+      <node ref="U7" pin="11"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U3" pin="22"/>
+    </net>
+    <net code="53" name="A3">
+      <node ref="U3" pin="20"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="54" name="Net-(U7-Pad16)">
+      <node ref="U7" pin="16"/>
+    </net>
+    <net code="55" name="Net-(U7-Pad15)">
+      <node ref="U7" pin="15"/>
+    </net>
+    <net code="56" name="Net-(U7-Pad8)">
+      <node ref="U7" pin="8"/>
+    </net>
+    <net code="57" name="Net-(U7-Pad7)">
+      <node ref="U7" pin="7"/>
+    </net>
+    <net code="58" name="Net-(U7-Pad6)">
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="59" name="Net-(U7-Pad5)">
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="60" name="Net-(U7-Pad3)">
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="61" name="3V_LCD_RST">
+      <node ref="U2" pin="1"/>
+      <node ref="U6" pin="18"/>
+    </net>
+  </nets>
+</export>

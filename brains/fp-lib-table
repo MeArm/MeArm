@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Brains)(type KiCad)(uri C:\KiCad\bin\brains.pretty)(options "")(descr "Specific Footprints"))
+)

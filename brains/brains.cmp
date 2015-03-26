@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 24/03/2015 12:43:21
+
+BeginCmp
+TimeStamp = /550C6741;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C7FAE;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-4032;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C684C;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C43DC;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C4273;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C9393;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C6BBB;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C0BAD;
+Reference = U1;
+ValeurCmp = WiiChuckCon;
+IdModule  = Brains:WiiChuck;
+EndCmp
+
+BeginCmp
+TimeStamp = /550BFF9E;
+Reference = U2;
+ValeurCmp = Nokia_5510_LCD;
+IdModule  = Brains:Nokia5510LCD;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C12FC;
+Reference = U3;
+ValeurCmp = promicro;
+IdModule  = Sockets_DIP:DIP-24__600_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C095A;
+Reference = U4;
+ValeurCmp = JoyConnectISP;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C0A0B;
+Reference = U5;
+ValeurCmp = JACK_2MM1;
+IdModule  = Connect:JACK_ALIM;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C64D6;
+Reference = U6;
+ValeurCmp = TXB0108PWR;
+IdModule  = SMD_Packages:SSOP-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C063F;
+Reference = U7;
+ValeurCmp = HM-11_Bluetooth;
+IdModule  = Brains:HM-11_BT;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C408A;
+Reference = U8;
+ValeurCmp = AP1117_V_REG;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C0236;
+Reference = U9;
+ValeurCmp = Servo;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C01D9;
+Reference = U10;
+ValeurCmp = Servo;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C0186;
+Reference = U11;
+ValeurCmp = Servo;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /550C0141;
+Reference = U12;
+ValeurCmp = Servo;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55115AD3;
+Reference = U13;
+ValeurCmp = XBEE;
+IdModule  = Brains:XBEE;
+EndCmp
+
+EndListe
