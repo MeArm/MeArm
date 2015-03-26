@@ -7,8 +7,8 @@ This repository contains the files for the MeArm Brains Project. The MeArm is an
 
 Repository Contents
 -------------------
-* KiCad Files - Contains all the files you need to build and modify the Brains board
-* KiCad Library - These are the parts made for the project - you'll need to add this library to replicate the board.
+* brains - KiCad Files - Contains all the files you need to build and modify the Brains board
+* brains.pretty - KiCad Library - These are the parts made for the project - you'll need to add this library to replicate the board.
 
 Version History
 ---------------
