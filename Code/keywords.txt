@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For meArm library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+meArm	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+openGripper	KEYWORD2
+closeGripper	KEYWORD2
+gotoPoint	KEYWORD2
+goDirectlyTo	KEYWORD2
+isReachable	KEYWORD2
+getX	KEYWORD2
+getY	KEYWORD2
+getZ	KEYWORD2
