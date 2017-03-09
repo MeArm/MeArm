@@ -4,12 +4,11 @@ MeArm - Pocket Sized Robot Arm
 
 [MeArm Robot Arm](https://shop.mime.co.uk/collections/mearm/products/mearm-your-robot-nuka-cola-blue)
 
-This repository contains the code for the MeArm Project. The MeArm is an Open Source 4DOF robot arm. It is intended to be a low cost and accessible robotics project for STEAM education.
-
 Repository Contents
 -------------------
-* Code - Code Resources for the MeArm
-* Hardware - Hardware Resources, such as PCB schematics and physical models
+This repository contains the cutting files for the MeArm. The MeArm is an Open Source 4DOF robot arm. It is intended to be a low cost and accessible robotics project for STEAM education.
+
+MeArm.dxf is the dxf file ready for laser cutting.
 
 Version History
 ---------------
