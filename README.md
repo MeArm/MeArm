@@ -21,6 +21,8 @@ All hosted on Thingiverse .
 * V0.2 ([Heavy Weight Revision](http://www.thingiverse.com/thing:293707))
 * V0.1 ([Proof of Concept](http://www.thingiverse.com/thing:257990))
 
+The cutting files for the MeArm Pi can be found in the [v2 branch](https://github.com/mimeindustries/MeArm/tree/v2) of this repository.
+
 License Information
 -------------------
 The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
