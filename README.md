@@ -1,14 +1,20 @@
 MeArm - Pocket Sized Robot Arm 
 ===========================
-![MeArm Robot Arm](https://cdn.shopify.com/s/files/1/0187/3430/products/Nuka_Deluxe_on_White_Short_Crop_4200_large.jpg?v=1474384579)  
+[MeArm Robot Arm](https://mearm.com/)  
 
-[MeArm Robot Arm](https://shop.mime.co.uk/collections/mearm/products/mearm-your-robot-nuka-cola-blue)
+[MeArm GitHub](https://github.com/MeArm)
+
+[Mime GitHub](https://github.com/mimeindustries)
+
+[phenoptix Thingiverse](https://www.thingiverse.com/phenoptix/designs)
 
 Repository Contents
 -------------------
 This repository contains the cutting files for the MeArm. The MeArm is an Open Source 4DOF robot arm. It is intended to be a low cost and accessible robotics project for STEAM education.
 
-MeArm.dxf is the dxf file ready for laser cutting.
+Laser cut (3mm) dxf files and Assembly instruction pdf files are sorted into folders based on versions.
+
+Files are collected from the various sources listed above.
 
 Version History
 ---------------
@@ -20,8 +26,6 @@ All hosted on Thingiverse .
 * V0.3 ([Considered the Alpha Arm](http://www.thingiverse.com/thing:298820))
 * V0.2 ([Heavy Weight Revision](http://www.thingiverse.com/thing:293707))
 * V0.1 ([Proof of Concept](http://www.thingiverse.com/thing:257990))
-
-The cutting files for the MeArm Pi can be found in the [v2 branch](https://github.com/mimeindustries/MeArm/tree/v2) of this repository.
 
 License Information
 -------------------
