@@ -1,12 +1,12 @@
 MeArm - Pocket Sized Robot Arm 
 ===========================
-[MeArm Robot Arm](https://mearm.com/)  
+[MeArm Website](https://shop.mearm.com/) Where these are available to purchase.
 
-[MeArm GitHub](https://github.com/MeArm)
+[MeArm GitHub](https://github.com/MeArm) Code and resources.
 
-[Mime GitHub](https://github.com/mimeindustries)
+[Mime GitHub](https://github.com/mimeindustries) Code, resources, and the Mirobot.
 
-[phenoptix Thingiverse](https://www.thingiverse.com/phenoptix/designs)
+[phenoptix Thingiverse](https://www.thingiverse.com/phenoptix/designs) Physical designs and dxf files, alternative hosting, and other designed products.
 
 Repository Contents
 -------------------
@@ -18,6 +18,13 @@ Files are collected from the various sources listed above.
 
 Version History
 ---------------
+
+Available in this repository
+
+* V3.0 Revised with no elastic bands, still requires a PCB. Build time around 40 minutes.
+* V2.0 Designed for MeArm Pi Kickstarter, incorporates a PCB in the base. Requires elastic bands or nitrile O rings. Build time 30 minutes.
+* V1.0 First finished version. No PCB required. Build time around 2 hours.
+
 
 All hosted on Thingiverse .
 
