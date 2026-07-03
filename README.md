@@ -12,6 +12,31 @@ The MeArm is a small robot arm, designed make robotics and coding available at l
 
 [phenoptix Thingiverse](https://www.thingiverse.com/phenoptix/designs) Physical designs and dxf files, alternative hosting, and other designed products.
 
+Controllers and firmware for the MeArm are available for many different platforms, and can all be found in our [company github](https://github.com/MeArm).
+
+## Available Controllers
+
+Arduino -
+  - [Library with Inverse Kinematics](https://github.com/MeArm/MeArm-Arduino)
+  - pcb V1.0 - AKA Brains Board using Pro Mini Clone
+  - pcb V2.0 - AKA MeArm Wifi using ESP8266
+
+Raspberry Pi
+  - [node.js control](https://github.com/MeArm/mearm-js)
+  - pcb V1.0 MeArm Pi
+
+micro:bit 
+  - [pxt adds blocks to makecode](https://github.com/MeArm/pxt-microbit-mearm)
+  - [makecode hosted on microbit.org](https://makecode.microbit.org/22476-86653-83739-82174)
+  - pcb all versions AKA MeArm micro:bit 
+
+BeagleBoneBlack -[ Software hosted by Bob Stone](https://github.com/RorschachUK/meArmBBB)
+
+Espruino - [JS Hardware with MeArm Examples](https://www.espruino.com/MeArm)
+
+SparkCore - [Software with features such as S-Curve movements
+](https://github.com/Hack-a-Day/Spark-MeArm)
+
 Repository Contents
 -------------------
 This repository contains the design and cutting files for the MeArm. The MeArm is an Open Source 4DOF robot arm. It is intended to be a low cost and accessible robotics project for STEAM education.
@@ -20,7 +45,7 @@ Laser cut (3mm) dxf files and Assembly instruction pdf files are sorted into fol
 
 Files are collected from the various sources listed above.
 
-## Watch the build video on YouTube
+## Watch the Build Video on YouTube
 
 <a href="https://www.youtube.com/watch?v=eFOgFglWql4"><img width="70%" alt="youtube-thumb" src="https://github.com/user-attachments/assets/14a5bf45-5881-45b2-bdb2-2bb87df5ed10"></a>
 
