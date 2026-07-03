@@ -16,7 +16,7 @@ Controllers and firmware for the MeArm are available for many different platform
 
 ## Available Controllers
 
-Arduino -
+Arduino
   - [Library with Inverse Kinematics](https://github.com/MeArm/MeArm-Arduino)
   - pcb V1.0 - AKA Brains Board using Pro Mini Clone
   - pcb V2.0 - AKA MeArm Wifi using ESP8266
