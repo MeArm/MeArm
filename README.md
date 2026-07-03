@@ -1,7 +1,10 @@
+
 MeArm - Pocket Sized Robot Arm 
 ===========================
 
-The MeArm is a small robot arm, designed make robotics and coding available at low cost. The project has been hugely successful in its objectives, due to the massive number of clones that have been made and sold across the world. There isn't an online market place where you can't buy a copy of this project. 
+<img width="400" height="397" alt="4503_additional-mearm-raspberry-pi-transparent-blue-robot-arm_11993340-8186-438d-b66b-95b7427ab5bc_800x" src="https://github.com/user-attachments/assets/18e9d42f-f51d-4906-9d88-c8b4564ad432" />
+
+The MeArm is a small robot arm, designed make robotics and coding available at low cost. The project has been hugely successful in its objectives, due to the massive number of clones that have been made and sold across the world. There isn't an online market place where you can't buy a copy of this project. We continue to support the product through income made from the sale of high quality robot kits, manufactured and shipped from the UK.
 
 [MeArm Website](https://www.mearm.com/) Where kits are available to purchase.
 
