@@ -20,6 +20,10 @@ Laser cut (3mm) dxf files and Assembly instruction pdf files are sorted into fol
 
 Files are collected from the various sources listed above.
 
+## Watch the build video on YouTube
+
+<a href="https://www.youtube.com/watch?v=eFOgFglWql4"><img width="70%" alt="youtube-thumb" src="https://github.com/user-attachments/assets/14a5bf45-5881-45b2-bdb2-2bb87df5ed10"></a>
+
 Version History
 ---------------
 
