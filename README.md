@@ -1,10 +1,8 @@
 MeArm - Pocket Sized Robot Arm 
 ===========================
-[MeArm Website](https://shop.mearm.com/) Where these are available to purchase.
+[MeArm Website](https://www.mearm.com/) Where kits are available to purchase.
 
 [MeArm GitHub](https://github.com/MeArm) Code and resources.
-
-[Mime GitHub](https://github.com/mimeindustries) Code, resources, and the Mirobot.
 
 [phenoptix Thingiverse](https://www.thingiverse.com/phenoptix/designs) Physical designs and dxf files, alternative hosting, and other designed products.
 
