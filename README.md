@@ -1,5 +1,8 @@
 MeArm - Pocket Sized Robot Arm 
 ===========================
+
+The MeArm is a small robot arm, designed make robotics and coding available at low cost. The project has been hugely successful in its objectives, due to the massive number of clones that have been made and sold across the world. There isn't an online market place where you can't buy a copy of this project. 
+
 [MeArm Website](https://www.mearm.com/) Where kits are available to purchase.
 
 [MeArm GitHub](https://github.com/MeArm) Code and resources.
@@ -8,7 +11,7 @@ MeArm - Pocket Sized Robot Arm
 
 Repository Contents
 -------------------
-This repository contains the cutting files for the MeArm. The MeArm is an Open Source 4DOF robot arm. It is intended to be a low cost and accessible robotics project for STEAM education.
+This repository contains the design and cutting files for the MeArm. The MeArm is an Open Source 4DOF robot arm. It is intended to be a low cost and accessible robotics project for STEAM education.
 
 Laser cut (3mm) dxf files and Assembly instruction pdf files are sorted into folders based on versions.
 
